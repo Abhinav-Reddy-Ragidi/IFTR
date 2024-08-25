@@ -1,10 +1,9 @@
-# Team-32
-This is the project we have developed as part of the JPMC Hackathon.
-This project focuses on providing the digital solution for the collection of soil data and generating reports for the farmer in their native language.
-It also generates the weather alerts for the farmers based on the weather conditons by fecthing from weather api and then based on those conditions if the farmer needs to be intimated 
-then a whatsapp message will be sent to them in there native language and monitoring the weather and sending the weather alerts will be done twice a day.
+<h1>Digitalizing Farmer Data Collection for IFTR</h1>
+<h2>Project Overview</h2>
+This project aims to revolutionize the way farmer data is collected and analyzed by providing a digital solution for IFTR. The goal is to streamline the communication between farmers and the NGO, collect accurate soil data, generate tailored reports in the farmers' native language, and deliver timely weather alerts.
 
-<h2>Features of this project</h2>
-<h5>Data synchronization :</h5> so Farmers as they are staying in the hilly areas wont be having the signals so if they enter data at such time then the data will be stored in browser cache memory and
-  when they are connected to internet then that would be sent to the organization server.
-<h5>Soil Reports :</h5> We send the soil reports to the farmers in the format of text message in whatsapp.
+<h2>Key Features</h2>
+Data Collection App: A mobile application for volunteers to collect soil data directly from farmers.
+Real-time Data Synchronization: Data collected by volunteers is automatically synchronized with a central database, ensuring data consistency and accessibility.
+Weather Alert System: Integration with weather APIs to provide real-time weather updates and alerts tailored to farmers' locations.
+Report Generation: Automated generation of customized reports in the farmers' native language, providing valuable insights based on collected data.
